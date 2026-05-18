@@ -16,5 +16,5 @@ This is a CV model I developed in **html**. Once the page was open, I exported t
 
 Esse é um modelo de currículo que desenvolvi em **html**. Assim que a página estiver aberta, eu exporto ela em PDF no menu **imprimir**.
 
-[Preview](https://guialima29.github.io/curriculum/portuguese/)
+[Preview](https://guialima29.github.io/curriculum/portuguese)
 [LinkedIn](https://www.linkedin.com/in/guialima29/)
